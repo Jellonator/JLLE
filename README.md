@@ -3,6 +3,10 @@ Jello's Love2D Lua Engine
 
 This mess of code is an engine I use for making games with Lua.
 
+Note that this is NOT a replacement for Love2D, it is meant to augment Love2D. In using this engine, it is still necessary to use Love2D. JLLE is only to make more complex things a little easier to manage, such as entity management, collision, and spritemaps.
+
+Also note that for the most part this is my own engine that I use for my own stuff, and as of such it's mostly built for my own personal use. Doesn't mean I don't appreciate commits, and you can also use it for whatever you want I don't care.
+
 ### Features
 - Entity systems
 - World management
